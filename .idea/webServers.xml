@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="aaa922fb-9c21-4900-9df7-fec5581ce020" name="SNNUGROUP">
+        <fileTransfer rootFolder="/groups/public_cluster/home/lihaoran/DCGANMS" accessType="SFTP" host="10.8.51.23" port="21577" sshConfigId="78bc45e1-0d51-4df4-a866-107906fde571" sshConfig="lihaoran@10.8.51.23:21577 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
